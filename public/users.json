@@ -1,0 +1,14 @@
+{
+  "character1": {
+    "name": "luffy",
+    "age": 11
+  },
+  "character2": {
+    "name": "zoro",
+    "age": 12
+  },
+  "character3": {
+    "name": "sanji",
+    "age": 13
+  }
+}
